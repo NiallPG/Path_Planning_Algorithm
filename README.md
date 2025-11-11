@@ -1,4 +1,4 @@
-Vacuum Robot Planner
+Vacuum Robot Planner:
 A Go implementation of an AI path planner for a vacuum robot in a grid environment. Uses uniform-cost search to find optimal cleaning sequences.
 Features
 
