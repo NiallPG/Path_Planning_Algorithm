@@ -108,8 +108,8 @@ func UCS(grid [][]rune, robotStart position, dirtPositions []position, rows, col
 		}
 		// north is x + 0, y - 1
 		// south is x + 0, y + 1
-		// east is x - 1, y + 0
-		// west is x + 1, y + 0
+		// west is x - 1, y + 0
+		// east is x + 1, y + 0
 		// north
 		new_x := currentNode.State.current_position.x
 		new_y := currentNode.State.current_position.y - 1
